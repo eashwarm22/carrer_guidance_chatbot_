@@ -116,11 +116,11 @@ if uploaded_file is not None:
 
     if "error" not in text.lower() and "unsupported" not in text.lower():
         st.subheader("Extracted Resume Text")
-        st.write(text[500:]+"..."if len(text)>500 else text)
+        st.write(text[:500]+"..."if len(text)>500 else text)
 
         processed=preprocess(text)
 
-        predictions=predict_roles(model, vect,encoder, processed)
+        predictions=predict_roles(model,vect,encoder,processed)
 
         st.subheader("Top Predicted Roles")
         for role, prob in predictions.items():
@@ -136,6 +136,7 @@ if uploaded_file is not None:
 
 
 # In[ ]:
+
 
 
 
