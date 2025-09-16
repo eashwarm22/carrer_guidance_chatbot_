@@ -1,0 +1,119 @@
+{
+  "Data Science": [
+    "Python", "R", "Machine Learning", "Deep Learning", "Statistics", "Probability", "Data Visualization", 
+    "SQL", "Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Keras", "Matplotlib", "Seaborn", 
+    "Big Data", "Spark", "Data Cleaning", "Model Deployment", "A/B Testing", "Data Storytelling", "ML Ops"
+  ],
+  "HR": [
+    "Recruitment", "Onboarding", "Employee Relations", "Payroll Management", "HR Policies", "Talent Acquisition", 
+    "Conflict Resolution", "Training and Development", "HRIS", "Compliance Management", "Labor Laws", 
+    "Performance Management", "Succession Planning", "People Analytics"
+  ],
+  "Advocate": [
+    "Legal Research", "Drafting Contracts", "Litigation", "Negotiation", "Legal Compliance", 
+    "Public Speaking", "Court Procedures", "Client Counseling", "Regulatory Knowledge", 
+    "Arbitration", "Case Law Analysis", "Legal Documentation"
+  ],
+  "Arts": [
+    "Creativity", "Drawing", "Painting", "Graphic Design", "Photography", "Adobe Photoshop", 
+    "Illustration", "InDesign", "Color Theory", "Art History", "Portfolio Design", "Digital Art", 
+    "Adobe Illustrator", "Visual Communication"
+  ],
+  "Web Designing": [
+    "HTML", "CSS", "JavaScript", "Responsive Design", "UX/UI", "Adobe XD", "Figma", 
+    "Bootstrap", "Web Accessibility", "Wireframing", "Prototyping", "Cross-browser Compatibility", 
+    "Git", "SEO Basics"
+  ],
+  "Mechanical Engineer": [
+    "CAD", "SolidWorks", "Thermodynamics", "Material Science", "Manufacturing Processes", 
+    "MATLAB", "AutoCAD", "ANSYS", "Product Design", "Fluid Mechanics", "GD&T", "CAM", "CFD"
+  ],
+  "Sales": [
+    "Negotiation", "CRM Tools", "Lead Generation", "Customer Service", "Communication", 
+    "Product Knowledge", "Sales Strategy", "Cold Calling", "Sales Forecasting", "Market Research", 
+    "Pipeline Management", "Target Setting", "Business Development"
+  ],
+  "Health and fitness": [
+    "Anatomy", "Nutrition", "Personal Training", "Exercise Physiology", "Motivational Skills", 
+    "First Aid", "Fitness Assessments", "Program Design", "Injury Prevention", "Client Consultation", 
+    "CPR Certification", "Kinesiology"
+  ],
+  "Civil Engineer": [
+    "AutoCAD", "Structural Analysis", "Project Management", "Construction Management", 
+    "Surveying", "Geotechnical Engineering", "STAAD Pro", "Primavera", "Site Supervision", 
+    "Quantity Estimation", "Building Codes", "Safety Regulations"
+  ],
+  "Java Developer": [
+    "Java", "Spring", "Spring Boot", "Hibernate", "REST APIs", "Maven", "Git", 
+    "JUnit", "Multithreading", "JDBC", "Microservices", "Docker", "Design Patterns"
+  ],
+  "Business Analyst": [
+    "Requirement Gathering", "Process Modeling", "UML", "Data Analysis", "SQL", 
+    "Stakeholder Management", "Agile Methodologies", "JIRA", "Tableau/Power BI", 
+    "Business Process Improvement", "Gap Analysis", "Use Case Diagrams"
+  ],
+  "SAP Developer": [
+    "SAP ABAP", "SAP Fiori", "SAP UI5", "SAP HANA", "SQL", "Data Migration", 
+    "SAP NetWeaver", "OData Services", "Module Integration", "Debugging", "Smartforms", "IDocs"
+  ],
+  "Automation Testing": [
+    "Selenium", "TestNG", "JUnit", "Python", "Java", "CI/CD", "Bug Tracking", 
+    "API Testing", "Postman", "Cucumber", "Jenkins", "Test Automation Frameworks", 
+    "Performance Testing", "Agile Testing"
+  ],
+  "Electrical Engineering": [
+    "Circuit Design", "Power Systems", "MATLAB", "Simulink", "Microcontrollers", 
+    "PLC Programming", "Embedded Systems", "Signal Processing", "Electrical Safety", 
+    "Control Systems", "Load Flow Analysis", "SCADA"
+  ],
+  "Operations Manager": [
+    "Process Improvement", "Team Leadership", "Supply Chain Management", "Budgeting", 
+    "Strategic Planning", "Inventory Management", "KPI Tracking", "Lean Six Sigma", 
+    "Vendor Management", "ERP Systems", "Risk Management"
+  ],
+  "Python Developer": [
+    "Python", "Django", "Flask", "REST APIs", "FastAPI", "SQL", "Git", "Docker", 
+    "ORMs", "Unit Testing", "Celery", "API Integration", "Cloud Deployment"
+  ],
+  "DevOps Engineer": [
+    "CI/CD", "Docker", "Kubernetes", "AWS", "Terraform", "Monitoring", 
+    "Scripting (Bash/Python)", "GitLab CI", "Ansible", "Jenkins", "Logging Tools", "Security Automation"
+  ],
+  "Network Security Engineer": [
+    "Firewall Management", "VPN", "IDS/IPS", "Penetration Testing", "Network Protocols", 
+    "SIEM Tools", "Incident Response", "Threat Analysis", "Wireshark", "Vulnerability Scanning", 
+    "Network Hardening", "Cybersecurity Compliance"
+  ],
+  "PMO": [
+    "Project Management", "Risk Management", "Resource Planning", "MS Project", 
+    "Stakeholder Communication", "Budget Management", "Agile/Scrum", "Project Documentation", 
+    "Quality Assurance", "Project Lifecycle", "Reporting Tools"
+  ],
+  "Database": [
+    "SQL", "NoSQL", "Database Design", "Performance Tuning", "Backup and Recovery", 
+    "Stored Procedures", "Normalization", "PostgreSQL", "MongoDB", "Data Security", 
+    "Replication", "Indexing"
+  ],
+  "Hadoop": [
+    "HDFS", "MapReduce", "Spark", "Hive", "Pig", "Java", "Scala", 
+    "Oozie", "Sqoop", "YARN", "Data Ingestion", "Cluster Management", "Big Data Analytics"
+  ],
+  "ETL Developer": [
+    "SQL", "Informatica", "Data Warehousing", "SSIS", "Data Mapping", 
+    "Scripting (Python/Shell)", "ETL Pipelines", "Data Cleansing", "Snowflake", 
+    "Data Integration", "Scheduling Tools"
+  ],
+  "DotNet Developer": [
+    ".NET", "C#", "ASP.NET", "MVC", "Entity Framework", "SQL Server", 
+    "Web API", "LINQ", "Blazor", "Azure DevOps", "Authentication", "Unit Testing"
+  ],
+  "Blockchain": [
+    "Cryptography", "Ethereum", "Smart Contracts", "Solidity", "Distributed Ledger", 
+    "Go", "Consensus Algorithms", "Truffle", "Web3.js", "Token Standards", "DeFi", "NFTs"
+  ],
+  "Testing": [
+    "Manual Testing", "Automation Testing", "Test Case Design", "Defect Tracking", 
+    "Selenium", "Agile Testing", "JIRA", "Regression Testing", "Smoke Testing", 
+    "Performance Testing", "API Testing", "Load Testing"
+  ]
+}
